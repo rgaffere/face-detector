@@ -55,7 +55,7 @@ While major parts of the system were implemented, the full pipeline could not be
 ## 📚 References
 
 - Viola & Jones, *Robust Real-Time Face Detection*, IJCV 2004  
-- [ENEE 408M Project Specification](project-specification-v-031925-1803.pdf)
+- ENEE 408M Project Specification
 
 ---
 
